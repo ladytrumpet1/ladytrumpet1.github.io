@@ -1,0 +1,8 @@
+---
+layout: default
+img: jotaroman-night2.jpg
+category: Blog
+title: Tong Tom Yai stargazing<br>Special Thanks
+description: |
+---
+  A special thanks to [Jotaroman](http://join.deathtothestockphoto.com/) for providing this photograph.
