@@ -131,6 +131,41 @@ h6 {
     margin-top: 0;
 }
 
+#blog {
+  padding: 90px 0;
+}
+
+#service .service-head {
+    margin: 20px 30px;
+}
+
+.service-item {
+    height: 250px;
+    width: 250px;
+    margin: 50px 25px;
+    float: left;
+}
+
+
+.service-item h4{
+    text-align: center;
+}
+
+.service-item img { 
+    width: 100px;
+    height: 100px;
+    position:relative;
+    left:30%;
+}
+
+#service .service-item p { 
+    padding: 10px;
+    font-size: 14px;
+    line-height: 1.5;
+    text-align: center;
+}
+
+
 @media(max-width:1199px) {
     ul.banner-social-buttons {
         float: left;
