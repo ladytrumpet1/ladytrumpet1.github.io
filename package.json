@@ -1,0 +1,27 @@
+{
+  "name": "myblog",
+  "version": "1.0.0",
+  "description": "A travelers blog",
+  "main": "index.js",
+  "dependencies": {
+    "fusioncharts": "^3.12.0",
+    "fusionmaps": "^3.12.0"
+  },
+  "devDependencies": {
+    "browserify": "^14.0.0"
+    },
+  "scripts": {
+    "build-js": "browserify client > assets/js/bundle.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ladytrumpet1/ladytrumpet1.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ladytrumpet1/ladytrumpet1.github.io/issues"
+  },
+  "homepage": "https://github.com/ladytrumpet1/ladytrumpet1.github.io#readme"
+}

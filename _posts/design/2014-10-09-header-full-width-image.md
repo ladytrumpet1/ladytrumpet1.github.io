@@ -1,20 +1,20 @@
 ---
 layout: page
-title:  "Header with a Full-Width-Image"
-subheadline:  "Headers With Style"
-teaser: "Feeling Responsive allows you to use all kinds of headers. This example shows a header with a <em>full-width-image</em>."
+title:  "Tong Tom Yai Homestay"
+subheadline:  "Insolite homestay in Thailand"
+teaser: "Paradise and local life experience"
 categories:
-    - design
+    - insolite
 tags:
-    - design
-    - background color
-    - header
+    - travel
+    - budget
+    - homestay
 image:
-   thumb: "unsplash_brooklyn-bridge-thumb.jpg"
+   thumb: "jotaroman-night1.jpg"
 header:
-    image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
+    image_fullwidth: "jotaroman-night1.jpg"
+    caption: Jotaro Man
+    caption_url: https://www.facebook.com/jotaro.man.16?ref=br_rs
 ---
 It's so easy to do. Just define in front matter your image.
 <!--more-->
@@ -23,9 +23,9 @@ It's so easy to do. Just define in front matter your image.
 
 ~~~
 header:
-    image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
+    image_fullwidth: "jotaroman-night1.jpg"
+    caption: Jotaro Man
+    caption_url: https://www.facebook.com/jotaro.man.16?ref=br_rs
 ~~~
 
 

@@ -8,13 +8,13 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'G&#39;Day Travelers'
+title: "G'Day Travelers"
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: 'Your next adventure starts now'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'G&#39;Day Travelers is a travel blog to share experiences, adventure, travellife style advices'
+description: "G'Day Travelers is a travel blog to share experiences, adventure, travellife style advices"
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Created with &hearts; by Audrey with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
@@ -42,7 +42,7 @@ urlimg: '/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "gdaytravellers-logo1-nobackground.png"
+logo: "logo.png"
 
 # Gems
 gems:
@@ -69,13 +69,7 @@ highlight: rouge
 excerpt_separator: "<!--more-->"
 include: ['.htaccess']
 # Exclude these files from your production _site
-exclude:
-    - .sass-cache
-    - Gemfile
-    - Gemfile.lock
-    - LICENSE
-    - README.md
-    - INSTALL.md
+exclude: ['CNAME','.sass-cache','Gemfile','Gemfile.lock','LICENSE','README.md','INSTALL.md','node_modules']
 
 
 # The language setting is used in /includes/header.html for html-settings
@@ -157,7 +151,7 @@ bing_webmastertools_id:    '0FB4C028ABCF07C908C54386ABD2D97F'
 #   /_/    \__,_/ |___/_/\___/\____/_/ /_/____/   Favicon-Crap: Favicons, Chrome, Android & Apple Touch Buttons
 #                                                 More information » https://mathiasbynens.be/notes/touch-icons
 
-favicon-32x32:                          'favicon-32x32.png'
+favicon-32x32:                          'favicon-gday.png'
 touch-icon-192x192:                     'touch-icon-192x192.png'
 apple-touch-icon-180x180-precomposed:   'apple-touch-icon-180x180-precomposed.png'
 apple-touch-icon-152x152-precomposed:   'apple-touch-icon-152x152-precomposed.png'
