@@ -1,8 +1,8 @@
 ---
 layout: page
-subheadline:  "Insolite homestay in Thailand"
-title:  "Tong Tom Yai Homestay"
-teaser: "Paradise, on your way to Koh Tao or Koh Samui, you should stop to try a true local life experience in a fishermen village. Ideal to connect with locals, learn about marine animals, help to conserve the natural resources or just relaxing."
+subheadline:  "Tong Tom Yai Homestay"
+title:  "Unique place to stay in Thailand"
+teaser: "Paradise, on your way to Koh Tao, Koh Phan Ngan or Koh Samui, you should stop to try a true local life experience in a fishermen village. Ideal to connect with locals, learn about marine animals, help to conserve the natural resources or just chill."
 
 categories:
     - homestay
@@ -10,7 +10,7 @@ categories:
 tags:
     - travel
     - budget
-    - insolite
+    - offbeat
     - green travel
 
 header: no
@@ -18,7 +18,7 @@ header: no
 image:
    thumb: "thumb-tongtomyai-horsesea.jpg"
    title: tongtomyai-sunset.jpg
-   homepage:
+   homepage: tongtomyai-sunset.jpg
    caption: Audrey Cassim
 
 
@@ -32,28 +32,23 @@ image:
 
 <h3>The Homestay</h3>
 
+<p>The habitation is rustic, located on stilts over the water. Sleep on futons. Eat on the floor with guests and family. Enjoy the sounds of the waves.</p>
+
 <figure>
   <img class="t60" src="{{ site.urlimg }}tongtomyai-home.jpg" alt="thailand, homestay, travel">
   <figcaption class="text-right"> Audrey Cassim </figcaption>
 </figure>
 
-<p>The habitation is rustic, located on stilts over the water. Sleep on futons. Eat on the floor with guests and family. Enjoy the sounds of the waves.</p>
----
 <h3>Food</h3>
+
+<p>Food is amazing, freshly cooked in thai style, grilled fish, squid, soup, and of course rice ... Free coffee and water</p>
+
 <figure>
   <img class="t60" src="{{ site.urlimg }}tongtomyai-food.jpg" alt="thailand, food, travel">
   <figcaption class="text-right"> Audrey Cassim </figcaption>
 </figure>
 
-<p>Food is amazing, freshly cooked in thai style, grilled fish, squid, soup, and of course rice ... Free coffee and water</p>
-
----
 <h3>Free Activities</h3> 
-
-<figure>
-  <img class="t60" src="{{ site.urlimg }}tongtomyai-jotaroman-night1.jpg" alt="thailand, stargazing, travel">
-  <figcaption class="text-right"> <a href="https://www.facebook.com/jotaro.man.16?ref=br_rs" target="_blank">Jotaro Man</a></figcaption>
-</figure>
 
 <li>Kayaking, a fun way to reach the local beaches </li>
 <li>Snorkeling</li>
@@ -62,10 +57,16 @@ image:
 <li>Reading a good book by the docks</li>
 <li>If you are a digital nomad, there is also a free and fast (9Mbps) wifi connection </li>
 <li>Stargazing at night</li>
----            
+
+<figure>
+  <img class="t60" src="{{ site.urlimg }}tongtomyai-jotaroman-night1.jpg" alt="thailand, stargazing, travel">
+  <figcaption class="text-right"> <a href="https://www.facebook.com/jotaro.man.16?ref=br_rs" target="_blank">Jotaro Man</a></figcaption>
+</figure>
+           
 <h3> Transportation </h3>
+
 <p>From Sawi Railway Station, walk on the main road until you reach the <em>Government Savings Bank</em> to catch the local bus (or car/taxi). Ask for Tong Tom Yai homestay, the price should be 50 baht per person, or 100 baht if you're a solo traveler</p>
-<p>From Bangkok, Hat Yai, SuratThani or Chumphon, all trains stop at Sawi. Check the  <a href="https://www.thairailwayticket.com/eTSRT/default.aspx?language=1">Thailand Railway website for timetable</a></p>
+<p>From Bangkok, Hat Yai, SuratThani or Chumphon, all trains stop at Sawi. Check the  <a href="https://www.thairailwayticket.com/eTSRT/default.aspx?language=1"> Thailand Railway website for timetable</a> </p>
                 
 <figure>
   <img class="t60" src="{{ site.urlimg }}tongtomyai-snorkeling.jpg" alt="thailand, snorkeling, travel">

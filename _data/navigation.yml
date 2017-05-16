@@ -10,11 +10,11 @@
     url: "/blog/archive/"
 
 - title: Travel Agent
-  url: "/getting-started/"
+  url: "/travelagent/"
   side: left
 
 - title: The Shop
-  url: "/design/"
+  url: "/shop/"
   side: left
   dropdown:
   - title: "Grid & Colors"
