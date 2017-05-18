@@ -5,8 +5,8 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-header:
-  image_fullwidth: header-hawaii-sunset.jpg
+header: no
+includeSlider: true
 widget1:
   title: "Blog & Portfolio"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
@@ -43,6 +43,7 @@ permalink: /index.html
 # this page as active in the topbar navigation
 #
 homepage: true
+
 ---
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">

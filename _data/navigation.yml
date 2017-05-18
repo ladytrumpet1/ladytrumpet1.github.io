@@ -1,21 +1,25 @@
 - title: Home
   url: "/"
+  side: right
+
+- title: G'Day Travelers
+  image: "logonav.png"
   side: left
 
 - title: Blog
   url: "/blog/"
-  side: left
+  side: right
   dropdown:
   - title: "Blog Archive"
     url: "/blog/archive/"
 
 - title: Travel Agent
   url: "/travelagent/"
-  side: left
+  side: right
 
 - title: The Shop
   url: "/shop/"
-  side: left
+  side: right
   dropdown:
   - title: "Grid & Colors"
     url: "/design/grid/"

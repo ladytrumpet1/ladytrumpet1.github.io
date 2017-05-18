@@ -1,61 +1,34 @@
 ---
 layout: page
 title: "About"
-subheadline: "Why another Jekyll Theme?"
-teaser: "Since years I am programming and designing websites. I love to work with open source tools and learn via code from others. This time I want to try to give something back..."
+subheadline: "Travel experiences"
+teaser: "10 years experiences, more than 2 years as a nomadic, I am glad to share with you my experiences and passion for traveling. "
 permalink: "/info/"
 header:
-    image_fullwidth: "header_drop.jpg"
+    image_fullwidth: "fullwidth-tarifa.jpg"
 ---
-...and learn at the same time.
-
-*Feeling Responsive* is my first theme which I let into the world. It's built on work and knowledge of others. While I am still designing it, you read about whats behind this theme in the – *hopefully* – near future.
+G’Day (the famous Australian slang for ‘Good Day’) Travelers :-)
 
 
-## Features
+G’Day Travelers is my travel blog, i am Audrey, born in France, citizen of Earth. After over 10 years travelling and  living my dream on the road, i decided to share with you my scenic travel, ideas, my experiences and lessons, and my love of meeting new people from different cultures…
 
-* [Responsive Gallery][8], [Videos][9], [Grid][10], [Typography][11],...
-* 100% GitHub Pages friendly
-* Easy editable navigation, footer and social media links
-* Language Ready – just translate one file.
-* Lots of possibilities to customize it to your needs
-* Lots of different headers
-* Various post formats to let your content shine
-* Uses Jekyll 3.0
-* Multiple possibilities to use images in different ways
-* Fine typography
-* Play Video and Audio with [Mediaelement.js][12]
+About me
+
+i grew up in Paris, city of love. I’ve studied my masters in music and anthropology, i started my journey in Brazil playing trumpet as a traveling musician during the Carnaval de Olinda & Recife, Pernambuco.
+
+Then, the travel bug hit me. I’ve now visited 27 countries so far. It ’s not a record, because i prefer to spend long periods in each country, minimum a month sometimes up to a year, and often come back to revisit some of my favourites. 
+
+As an anthropologist, I’ve always enjoy to live and eat with the locals, find beautiful place without tourists, As a polyglot i love learning local languages but always with the cute french accent :-)
+
+Now I’m following my dream to open a digital/entrepreneur nomad career. 
+
+The blog and online travellers shop is my place to share with you items that I and many travellers have found invaluable.
 
 
 
-## I got inspired by...
+Everyday moment is a new beginning. It doesn’t matter what happen yesterday. All that matters in now and the  day in front of you, starting it with a fresh and happy attitude. 
 
-[Michael Rose][1] and his fabulous [themes for jekyll][2]. Authors of [A List Apart][4] and [Smashing Magazine][5] since 2002. [GitHub][6] and how they built such a habitat for cooperation worldwide. [Automattic][3] and how they built a fantastic community around WordPress. And many, many more...
+Follow me on instagram  @gdaytravelers or via my fb page #gdaytravelers 
 
-Please make *Feeling Responsive* yours and if you like it, please link back to my homebase <a href="http://phlow.de/">Phlow</a>. That would be awesome.
+Have a good one!
 
-#### Since then, fork it!
-
-Yours sincerelly, [Moritz »mo.« Sauer][7]
-
-
- [1]: http://mademistakes.com/about/
- [2]: http://mademistakes.com/work/jekyll-themes/
- [3]: http://automattic.com/
- [4]: http://alistapart.com/
- [5]: http://www.smashingmagazine.com/
- [6]: https://github.com/
- [7]: http://sauer.io
- [8]: {{ site.url }}/design/gallery/
- [9]: {{ site.url }}/design/video/
- [10]: {{ site.url }}/design/grid/
- [11]: {{ site.url }}/design/typography/
- [12]: {{ site.url }}/design/mediaelement_js/
- [13]: #
- [14]: #
- [15]: #
- [16]: #
- [17]: #
- [18]: #
- [19]: #
- [20]: #
