@@ -1,25 +1,34 @@
-
 - title: G'Day Travelers
-  image: "logonav.png"
+  url: "/"
   side: left
 
-- title: Blog
+- title: About me
+  url: "/info/"
+  side: right
+
+- title: "Blog"
   url: "/blog/"
   side: right
   dropdown:
-  - title: "Blog Archive"
+  - title: "Australia"
     url: "/blog/archive/"
-
-- title: Travel Agent
+  - title: "America"
+    url: "/blog/archive/"
+  - title: "Europe"
+    url: "/blog/archive/"
+  - title: "South East Asia"
+    url: "/blog/archive/"
+  
+- title: "Travel Services"
   url: "/travelagent/"
   side: right
-
-- title: The Shop
-  url: "/shop/"
-  side: right
   dropdown:
-  - title: "product"
-    url: "/shop/product/"
+  - title: "Yoga"
+    url: "/travelagent/" 
+  - title: "Travel Agent"
+    url: "/travelagent/"
+  - title: "Digital Nomads"
+    url: "/travelagent/"
 
 - title: "Search"
   url: "/search/"
